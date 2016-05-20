@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Nevis14 {
+namespace DallasAdc {
     // This file contains functions to facilitate communicating with the FPGA
     public partial class Form1 : System.Windows.Forms.Form {
         /*

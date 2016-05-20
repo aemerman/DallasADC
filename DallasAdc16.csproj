@@ -7,8 +7,8 @@
     <ProjectGuid>{189316C5-DE0B-42D2-9C88-03370235D72C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Nevis14</RootNamespace>
-    <AssemblyName>Nevis14</AssemblyName>
+    <RootNamespace>DallasAdc</RootNamespace>
+    <AssemblyName>DallasAdc</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
@@ -119,6 +119,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="FFTWSharp\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="Properties\Settings.settings">

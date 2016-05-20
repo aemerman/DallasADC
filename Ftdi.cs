@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using FTD2XX_NET;
 using System.Windows.Forms;
 
-namespace Nevis14 {
+namespace DallasAdc {
     // This file contains functions that allow reading/writing to the FTDIs
     // Note: portA and portB are used as lock objects for the WriteToChip
     // and ReadFromChip functions. Do not use them as locks elsewhere.

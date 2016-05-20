@@ -1,4 +1,4 @@
-﻿namespace Nevis14
+﻿namespace DallasAdc
 {
     partial class ErrorLog
     {

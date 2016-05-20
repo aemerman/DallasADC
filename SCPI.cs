@@ -7,7 +7,7 @@ using System.IO;
 using System.Windows.Forms;
 using NationalInstruments.VisaNS;
 
-namespace Nevis14
+namespace DallasAdc
 {
     class SCPI
     {

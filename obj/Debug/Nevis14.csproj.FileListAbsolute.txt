@@ -74,3 +74,7 @@ C:\Users\Max Beck\Documents\Physics\Nevis\Nevis14 Chip Testing\obj\Debug\Nevis14
 C:\Users\Max Beck\Documents\Physics\Nevis\Nevis14 Chip Testing\obj\Debug\Nevis14.csproj.GenerateResource.Cache
 C:\Users\Max Beck\Documents\Physics\Nevis\Nevis14 Chip Testing\obj\Debug\Nevis14.exe
 C:\Users\Max Beck\Documents\Physics\Nevis\Nevis14 Chip Testing\obj\Debug\Nevis14.pdb
+C:\Users\alexe_000\Documents\GitHub\DallasADC\bin\Debug\Nevis14.exe.config
+C:\Users\alexe_000\Documents\GitHub\DallasADC\obj\Debug\Nevis14.exe
+C:\Users\alexe_000\Documents\GitHub\DallasADC\obj\Debug\Nevis14.pdb
+C:\Users\alexe_000\Documents\GitHub\DallasADC\bin\Debug\DallasAdc.exe.config

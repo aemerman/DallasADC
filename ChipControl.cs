@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Nevis14 {
+namespace DallasAdc {
     public partial class ChipControl : UserControl {
         public ChipControl () {
             InitializeComponent();

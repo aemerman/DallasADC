@@ -12,7 +12,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 using System.IO;
 using NationalInstruments.VisaNS;
 
-namespace Nevis14 {
+namespace DallasAdc {
     // This file contains the main functions used by the code
     // and the event handlers of the GUI
     public partial class Form1 : Form {

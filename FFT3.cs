@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 using System.IO;
 using System.Diagnostics;
 
-namespace Nevis14 {
+namespace DallasAdc {
     public partial class Form1 : Form {
         // Chip data constants
 

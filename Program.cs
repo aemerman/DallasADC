@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Nevis14 {
+namespace DallasAdc {
     static class Program {
         /// <summary>
         /// The main entry point for the application.

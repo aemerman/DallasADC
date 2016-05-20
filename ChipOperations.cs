@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Nevis14 {
+namespace DallasAdc {
     // This file contains functions to send commands to the chip
     public delegate void ReadFunctionType (char port, List<byte> data);
 

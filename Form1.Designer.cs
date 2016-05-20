@@ -1,4 +1,4 @@
-namespace Nevis14 {
+namespace DallasAdc {
     partial class Form1 {
         /// <summary>
         /// Required designer variable.
@@ -33,7 +33,7 @@ namespace Nevis14 {
             this.resultBox = new System.Windows.Forms.TextBox();
             this.runButton = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.chipControl1 = new Nevis14.ChipControl();
+            this.chipControl1 = new DallasAdc.ChipControl();
             ((System.ComponentModel.ISupportInitialize)(this.signalBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -157,7 +157,7 @@ namespace Nevis14 {
             this.Controls.Add(this.runButton);
             this.Font = new System.Drawing.Font("Consolas", 9F);
             this.Name = "Form1";
-            this.Text = "Nevis14 Test Interface";
+            this.Text = "DallasAdc Test Interface";
             ((System.ComponentModel.ISupportInitialize)(this.signalBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
